@@ -17,7 +17,7 @@ Java Developer | Spring Boot | REST APIs
 ### 🚀 Featured Projects
 - **API Rate Limiter – Backend**   
   Spring Boot–based API rate limiting system to control request traffic  
-  *(implemented using filters/interceptors and in-memory counters)*
+  *(implemented using filters and in-memory counters)*
 
 - **Job Application Tracker – Backend**  
   Spring Boot backend to manage job applications and interview stages  

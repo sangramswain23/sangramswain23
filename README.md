@@ -28,7 +28,7 @@ Java Developer | Spring Boot | REST APIs
 
 ---
 
-### 🛠 Tech Stack (Backend-Focused)
+###  Tech Stack (Backend-Focused)
 
 **Core Backend**
 - **Java**, **Spring Boot**
@@ -58,11 +58,10 @@ Java Developer | Spring Boot | REST APIs
 ### 🔗 Connect with me
 <p align="left">
   <a href="https://github.com/sangramswain23" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-mark-white.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/sangram23" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
 </p>
-

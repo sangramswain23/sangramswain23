@@ -1,4 +1,4 @@
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Sangram
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm <span style="font-size:40px">Sangram</span>
 Java Developer | Spring Boot | REST APIs
 
 ---
@@ -44,7 +44,7 @@ Java Developer | Spring Boot | REST APIs
 
 **Version Control & Tools**
 - **Git**, **GitHub**
-- **Eclipse / VS Code**
+- **Eclipse (STS)**, **VS Code**
 - **Postman**
 
 **Frontend (Working Knowledge)**

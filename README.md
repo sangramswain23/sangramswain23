@@ -3,7 +3,7 @@ Java Developer | Spring Boot | REST APIs
 
 ---
 
-### 💼 What I work on
+###  What I work on
 - Building backend applications using **Java & Spring Boot**
 - Designing and implementing **RESTful APIs**
 - Working with **JPA / Hibernate** and relational databases
@@ -14,7 +14,7 @@ Java Developer | Spring Boot | REST APIs
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 - **API Rate Limiter – Backend**   
   Spring Boot–based API rate limiting system to control request traffic  
   *(implemented using filters and in-memory counters)*
@@ -58,10 +58,11 @@ Java Developer | Spring Boot | REST APIs
 ### 🔗 Connect with me
 <p align="left">
   <a href="https://github.com/sangramswain23" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-mark-white.svg" width="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/sangram23" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
 </p>
+

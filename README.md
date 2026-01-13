@@ -1,31 +1,40 @@
-## Hi, I'm Sangram 👋
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Sangram
+Java Developer | Spring Boot | REST APIs
 
-<!--
-**sangramswain23/sangramswain23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💼 What I do
+- Backend development using **Java & Spring Boot**
+- Design and implementation of **RESTful APIs**
+- Database integration using **JPA / Hibernate**
+- Writing clean, maintainable backend code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### What I do
-- Backend development with Spring Boot
-- REST API design and implementation
-- Database integration using JPA and MySQL
+---
 
-- ### Featured Projects
-- Job Application Tracker – Backend  
-- WeatherTrip – Smart Travel Planner
+### 🚀 Featured Projects
+- **Job Application Tracker – Backend**  
+  Spring Boot backend to manage job applications and interview stages  
 
-### Tech Stack
-Java · Spring Boot · REST · JPA · PostgreSQL · Git
+- **WeatherTrip – Smart Travel Planner**  
+  Backend service for weather-based travel planning  
 
-### Connect
-- LinkedIn: https://linkedin.com/in/sangram23
+---
+
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+</p>
+
+---
+
+### 🔗 Connect
+- LinkedIn: https://linkedin.com/in/sangram23  
 - Email: sangramswain.skp@gmail.com

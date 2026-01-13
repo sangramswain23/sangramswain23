@@ -3,38 +3,65 @@ Java Developer | Spring Boot | REST APIs
 
 ---
 
-### 💼 What I do
-- Backend development using **Java & Spring Boot**
-- Design and implementation of **RESTful APIs**
-- Database integration using **JPA / Hibernate**
-- Writing clean, maintainable backend code
+### 💼 What I work on
+- Building backend applications using **Java & Spring Boot**
+- Designing and implementing **RESTful APIs**
+- Working with **JPA / Hibernate** and relational databases
+- Applying clean, layered backend architecture
+
+> I have completed a **Java Full Stack** course and have working knowledge of  
+> **HTML, CSS, and JavaScript**, with a strong personal interest in **backend development**.
 
 ---
 
 ### 🚀 Featured Projects
+- **API Rate Limiter – Backend**   
+  Spring Boot–based API rate limiting system to control request traffic  
+  *(implemented using filters/interceptors and in-memory counters)*
+
 - **Job Application Tracker – Backend**  
   Spring Boot backend to manage job applications and interview stages  
 
-- **WeatherTrip – Smart Travel Planner**  
-  Backend service for weather-based travel planning  
+- **WeatherTrip – Smart Travel Planner (Backend + Frontend)**  
+  Full-stack application with Spring Boot backend and a responsive frontend  
+  integrating weather data and travel logic 
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack (Backend-Focused)
+
+**Core Backend**
+- **Java**, **Spring Boot**
+- **Spring MVC**, **REST APIs**
+- **Maven**
+
+**Persistence**
+- **JPA / Hibernate**
+- **PostgreSQL** (hands-on), **MySQL** (familiar)
+
+**Backend Concepts (Hands-on)**
+- **API Rate Limiting** – request throttling and traffic control
+
+**Version Control & Tools**
+- **Git**, **GitHub**
+- **Eclipse / VS Code**
+- **Postman**
+
+**Frontend (Working Knowledge)**
+- HTML, CSS, JavaScript
+
+**Familiar With (Conceptual)**
+- Docker, Kubernetes, Kafka, Redis, Microservices
+
+---
+
+### 🔗 Connect with me
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+  <a href="https://github.com/sangramswain23" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sangram23" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
 </p>
-
----
-
-### 🔗 Connect
-- LinkedIn: https://linkedin.com/in/sangram23  
-- Email: sangramswain.skp@gmail.com
